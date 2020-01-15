@@ -18,7 +18,7 @@
                         @csrf
 
                         <div class="form-group row">
-                            <label for="machine" class="col-md-4 col-form-label text-md-right">{{ __('Máquina') }}</label>
+                            <label for="machine" class="col-md-4 col-form-label text-md-right">{{ __('Cafeteira') }}</label>
 
                             <div class="col-md-6">                                
                                 <select name="machine" id="machine" class="form-control @error('machine') is-invalid @enderror" value="{{ old('machine') }}">
