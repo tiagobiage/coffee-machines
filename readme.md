@@ -48,7 +48,7 @@ Acesse http://localhost/admin e faça o login com o e-mail **coffee@alicewonders
 
 ## Tablets
 
-Acesse http://localhost/device e habilite ele escolhendo a cafeteira e o código de acesso que foi criado quando a cafeteira foi salva no Admin.
+Descubra o IP da máquina que está o apache(localhost), então acesse com exemplo http://192.168.2.47/device e habilite ele escolhendo a cafeteira e o código de acesso que foi criado quando a cafeteira foi salva no Admin.
 
 ## Leitor de NFC
 
