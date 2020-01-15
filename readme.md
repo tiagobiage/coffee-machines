@@ -52,5 +52,5 @@ Descubra o IP da máquina que está o apache(localhost), então acesse com exemp
 
 ## Leitor de NFC
 
-Usar o IP da máquina que estáo apache e quando o funcionário passar o cartão fazer o dispositivo acessar na rede a URL como exemplo [http://192.168.2.47/api/device/employee/**CODIGO_DO_FUNCIONARIO**/**ID_CAFETEIRA**]()
-Dá pra testar colocando o 
+Usar o IP da máquina que está o apache e quando o funcionário passar o cartão fazer o dispositivo acessar na rede a URL como exemplo [http://192.168.2.47/api/device/employee/**CODIGO_DO_FUNCIONARIO**/**ID_CAFETEIRA**]().
+Dá pra testar colocando o a URL no navegador.
